@@ -1,7 +1,7 @@
 # Q1 Launch Plan: JioHealth → Netmeds Integration
 
 ## 🎯 Objective
-Launch "Consult → Pharmacy" MVP for 10M new JioHealth users by Jun 2026.
+Launch "Consult → Pharmacy" MVP for 10M new JioHealth users by end of Q1.
 
 **Success =** 1M consult-to-cart conversions @ 75% funnel.
 
