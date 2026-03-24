@@ -56,19 +56,19 @@ by end of June.
 ## 🔄 Core User Flow (MVP Scope)
 
 Jio User Opens App
-↓
+→
 AI Symptom Checker (Fever/Headache → HIGH urgency)
-↓
+→
 Video Consult (Avg 5 min wait, JioMeet infra)
-↓
+→
 Doctor creates Digital Rx (Paracetamol 500mg x 10)
-↓
+→
 Rx JSON → POST /netmeds/cart/add (auto-populated)
-↓
+→
 Stock Check (Netmeds API → 45min ETA Hyderabad)
-↓
+→
 JioPay 1-tap checkout (10% cashback)
-↓
+→
 Realtime delivery tracking → Reorder button
 
 
