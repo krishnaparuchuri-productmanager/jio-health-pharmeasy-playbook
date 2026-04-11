@@ -19,9 +19,9 @@ Jio Health Hub x Netmeds: 100M user growth strategy
 | Q4 | Network | Jio stores → Netmeds pickup | 100M DAU | 1200+ cities |
 
 ## Integration Roadmap
-1. **Post-Consult Rx Flow:** Jio doc prescription → Netmeds cart (live Jio-Netmeds vouchers)
-2. **AI + Pharmacy:** Symptom → Urgency → Netmeds stock check → Delivery ETA
-3. **Jio Super App:** Health tab → Netmeds medicine reorder
+1. **Post-Consult Rx Flow:** Jio doc prescription → Netmeds cart (live Jio-Netmeds vouchers).
+2. **AI + Pharmacy:** Symptom → Urgency → Netmeds stock check → Delivery ETA.
+3. **Jio Super App:** Health tab → Netmeds medicine reorder.
 
 ## Artifacts
 - [App Analysis](docs/analysis.md)
